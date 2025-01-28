@@ -1,0 +1,10 @@
+{
+    "name": "Daily Quotes",
+    "description": "Bringing You Daily Quotes",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "quotes/quotes.html",
+      "default_icon": "/images/quotes.png"
+    }
+  }
